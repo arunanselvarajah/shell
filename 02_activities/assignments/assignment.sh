@@ -58,6 +58,6 @@ rm -rf data/raw/*ipaddr*
 touch data/inventory.txt
 find data/processed -type f > data/inventory.txt
 
-###########################################
+###############################################
 
-echo "Project setup is complete!"
+echo "The project setup is complete!"
